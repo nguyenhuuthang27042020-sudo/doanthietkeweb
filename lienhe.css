@@ -39,6 +39,9 @@ main table{
     border-radius: 12px;
     border: 1px solid #e6d5c3;
 }
+main table {
+    background-calor: white;
+}
 main table th{
     padding: 16px 20px;
     color: #4a3b32;
