@@ -38,9 +38,7 @@ main table{
     overflow: hidden;
     border-radius: 12px;
     border: 1px solid #e6d5c3;
-}
-main table {
-    background-calor: white;
+    background-color: white;
 }
 main table th{
     padding: 16px 20px;
